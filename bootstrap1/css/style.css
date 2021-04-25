@@ -1,0 +1,43 @@
+.bg-istenen-renk{
+    background-color: #E9ECEF;
+}
+
+.header-h1{
+    text-align: center;
+    color: red;
+}
+.header-h2{
+    text-align: center;
+    color:rgb(211, 125, 28);
+}
+.header-h5{
+    color:purple;
+}
+.paragraf{
+    text-align: center;
+    font-family:monospace;
+}
+.price-button{
+    border-radius: 10px;
+    display: inline-block;
+    background-color: #5b666e; 
+    color: white;
+    padding: 8px 8px;
+}
+ul{
+    list-style-position: inside;
+}
+
+.buttons{
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 45%;
+    margin-right: 45%;
+    background-color: #2390e9;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    font-size: 16px;
+}
